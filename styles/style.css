@@ -1,0 +1,257 @@
+/**{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-image: url(../images/housebackground.jpg);
+    height: 600px;
+}
+.logo img{
+    height: 40px;
+    width:40px;
+    margin-left: 30px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.logo p{
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.logo{
+    display: flex;
+}
+.list{
+    display: flex;
+    color: white;
+    margin-left: 400px;
+    list-style: none;
+    margin-top: -20px;
+    font-size: 16px;
+}
+.list li{
+    margin: 25px;
+    font-size: 16px;
+}
+ ion-icon{
+    color:white;
+    margin-left: 1000px;
+    height: 40px;
+    width:40px;
+   margin-top: -100px;
+}
+button{
+    margin-left: 20px;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    margin-top: -60px;
+}
+._ad20 ion-icon{
+    margin-top: -60px;
+}*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+.main{
+    background-image: url(../images/housebackground.jpg);
+    height: 600px;
+   margin-top: 600px;
+}
+nav{
+    margin-top: -600px;
+    height: 200px;
+}
+.logo{
+    display: flex;
+}
+.logo-img {
+    width:50px;
+    height:50px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.logo h1{
+    margin-top: 22px;
+    color: white;
+}
+.container {
+    display:flex;
+    
+}
+.nav-items{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 300px;
+}
+.nav-items li{
+    list-style: none;
+    margin: 20px;
+    color: white;
+    font-size: 16px;
+}
+.icon{
+    width:30px;
+    height:30px;
+    margin-left: 150px;
+    margin-top: 40px;
+    color: white;
+}
+ nav button {
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border:none;
+    margin-top: -50px;
+    margin-left: 200px;
+}
+ nav button:hover{
+    background-color: lightpink;
+}
+
+ .-ad20 strong{
+  margin-left: 10px;
+    color:white;
+    font-size: 80px;
+}
+.-ad20 p{
+color:white;
+margin-left: 10px;
+font-size: 16px;
+font-style: monospace;
+}
+.-ad20 button{
+    font-size: 16px;
+    border: none;
+    border-radius:50px;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+    height:40px;
+    width:250px;
+}
+.-ad20 button:hover{
+    background-color:rgb(221, 101, 21);
+}
+.second{
+    height:150px;
+    width:100px;
+    background-color: grey;
+    margin-top: 200px;
+    
+} 
+.image1 img{
+    height: 300px;
+    width:280px;
+    margin: 15px;
+    border-radius: 5px;
+    border: black 1px solid;
+    margin-left: 30px;
+}
+.image1{
+    display: flex;
+}
+.image2 img{
+    height: 300px;
+    width:280px;
+    margin: 15px;
+    border-radius: 5px;
+    border: black 1px solid;
+    margin-left: 30px; 
+}
+.image2{
+    display: flex;
+}
+.third{
+    height:1000px;
+    background-color: black;
+    width: 100%;
+    border:white 1px solid;
+    margin-top: 600px;
+    text-align: center;
+    color: white;
+}
+.third p{
+ margin-top: 20px;
+
+}
+.third h2{
+    margin-top: 30px;
+    font-size: 50px;
+}
+.third h6{
+    margin-top: 20px;
+    font-size: 16px;
+}
+.image3 img{
+    height: 400px;
+    width:350px;
+    margin: 15px;
+    border-radius: 5px;
+    border: black 1px solid;
+    margin-left: 50px;  
+    margin-top: 10px;
+}
+.image3{
+    display: flex;
+}
+.matter{
+    display: flex;
+    margin: 30px;
+}
+.m1 h4{
+    height: 50px;
+    width: 350px;
+    background-color: rgb(177, 175, 172);
+    color: black;
+   border-radius: 5px;
+    margin-top: -45px;
+    margin-left: 20px;
+    padding: 15px;
+
+}
+
+.m2 h4 {
+    height: 50px;
+    width: 350px;
+    background-color: rgb(177, 175, 172);
+    color: black;
+   border-radius: 5px;
+    margin-top: -45px;
+    margin-left: 60px;
+    padding: 15px;
+
+}
+.m3 h4 {
+    height: 50px;
+    width: 350px;
+    background-color: rgb(177, 175, 172);
+    color: black;
+   border-radius: 5px;
+    margin-top: -45px;
+    margin-left: 70px;
+    padding: 15px;
+
+}
+.matter2{
+    height:400px;
+    width:100%;
+    background-color: white;
+    border: black 1px solid;
+    color: white;
+}
+.logo1 img{
+    margin-left: -1000px;
+    height: 80px;
+    width:50px;
+}
